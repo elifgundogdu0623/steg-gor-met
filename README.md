@@ -114,59 +114,20 @@ Gizleme sırasında metin ASCII baytlarına çevrilir ve sonuna mesajın bittiğ
 
 
 
-\## Ekran görüntüleri
-
-
-
-README'ye uygulamanın kullanımını gösteren ekran görüntüleri eklemek faydalıdır. Özellikle şu akıştan görüntü seçin:
-
-
-
-1\. Yüklenmiş kaynak görüntü ve RGB tablosu
-
-2\. Mesaj gizlendikten sonraki sonuç ve başarı bildirimi
-
-3\. Kaydedilmiş/gizli görüntü yüklendikten ve mesaj çözüldükten sonraki durum
-
-
-
-Görüntüleri proje içinde `docs/screenshots/` klasörüne koyun ve gerçek dosya adlarına göre bağlantıları güncelleyin:
-
-
-
-```md
-
-!\[Kaynak görüntü ve RGB değerleri](docs/screenshots/kaynak-ve-rgb.png)
-
-!\[Mesaj gizleme sonucu](docs/screenshots/mesaj-gizleme.png)
-
-!\[Mesaj çözme sonucu](docs/screenshots/mesaj-cozme.png)
-
-```
-
-
-
-Paylaşmadan önce ekran görüntülerinde görünen kişisel klasör adlarını ve ilgisiz pencereleri kırpın. Dosya seçme penceresi ekran görüntüsü temel özellikleri anlatmadığından README için gerekli değildir.
-
-
-
-\## Lisans
-
-
-
-Bu projeye henüz bir lisans eklenmemiştir.
-
-
-
-
-
-## Proje ekran görüntüleri
+## Ekran görüntüleri
 
 ### Kaynak görüntü ve RGB değerleri
+
 ![Kaynak görüntü ve RGB değerleri](docs/screenshots/kaynak-ve-rgb.png)
 
 ### Mesaj gizleme
+
 ![Mesaj gizleme sonucu](docs/screenshots/mesaj-gizleme.png)
 
 ### Mesaj çözme
+
 ![Mesaj çözme sonucu](docs/screenshots/mesaj-cozme.png)
+
+## Lisans
+
+Bu projeye henüz bir lisans eklenmemiştir.
